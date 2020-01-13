@@ -14,7 +14,7 @@
 //Beispiel: printf("Fl%cche: ",ae); = Ausgabe von "Fläche"
 
 
-// ******* HAUPTPROGR AMM *******
+// ******* HAUPTPROGRAMM *******
 #include <stdio.h>
 #include <math.h>
 int main(int argc, char *argv[])
